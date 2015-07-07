@@ -1,0 +1,27 @@
+ip:10.129.33.48
+子网掩码：255.255.252.0
+网管： 10.129.32.1
+
+dns: 61.139.2.69
+
+
+10.16.0.161
+user：bpyw password：bpyw-287
+user: app, password: app
+
+
+
+
+SIT测试环境，日志服务器，10.16.0.110
+用户view，密码view
+yc_chengp(程鹏) 14:46:23
+路径/data/log/2015-04-02/ebcc
+yc_chengp(程鹏) 14:47:04
+app.out就是常用的日志信息了
+
+
+Vpn info:
+Ip : 58.188.253.168
+Account : pandavpn
+Password : 
+Array
