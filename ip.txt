@@ -3,7 +3,7 @@ ip:10.129.33.48
 网管： 10.129.32.1
 
 dns: 61.139.2.69
-
+日常环境：10.16.45.170
 
 10.16.0.161
 user：bpyw password：bpyw-287
@@ -26,4 +26,4 @@ Account : pandavpn
 Password : 
 Array
 
-changeid 
+
